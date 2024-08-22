@@ -1,0 +1,1 @@
+Here is the source code for the NSGA2 genetic algorithm in the article 'Non-Dominated Sorting Genetic Algorithm II (NSGA2)-Based Parameter Optimization of the MSMGWB Model Used in Remote Infrared Sensing Prediction for Hot Combustion Gas Plume' on the 'Remote Sensing' journal.
